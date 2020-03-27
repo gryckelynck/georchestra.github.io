@@ -31,10 +31,9 @@ Des régions :
 
  * la Bretagne, via le partenariat [GeoBretagne](https://geobretagne.fr),
  * l'Aquitaine, via le projet [PIGMA](https://www.pigma.org) mis en place par le [GIP ATGeRI](https://www.gipatgeri.fr/),
- * la Picardie, via le partenariat [GéoPicardie](http://www.geopicardie.fr/portail/), 
- * l'Alsace, via le partenariat [CIGAL](http://www.cigalsace.org/portail/),
+ * les Hauts de France, via le partenariat [Géo2France](https://www.geo2france.fr/portail/), 
+ * le Grand Est, via le partenariat [GéoGrandEst](https://www.geograndest.fr/portail/),
  * l'Auvergne, grâce au GIP du [Centre Régional Auvergnat de l'Information Géographique](https://craig.fr/).
- * le Nord-Pas-de-Calais, via la [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
  * [Santa Maria](http://sigweb.cm-viladoporto.pt/home/) (Açores)
  
 Des agglomérations:
